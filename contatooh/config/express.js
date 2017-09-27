@@ -23,4 +23,4 @@ module.exports = function() {
         .into(app);
 
     return app;
-}
+};
